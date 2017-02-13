@@ -7,7 +7,7 @@ hello there,
 
 thanks!
 -----------------------------
-test :: branch
+test branch
 =======
 !
 
